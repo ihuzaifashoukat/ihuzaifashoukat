@@ -20,20 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 📈 GitHub Stats
 
 ![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=radical)
+=
 
-## 📫 Get in Touch
-
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [your Twitter profile]
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [The Impact of Machine Learning on Modern Web Development](your-blog-link)
-- [Understanding Asynchronous JavaScript](your-blog-link)
-- [A Beginner's Guide to Docker](your-blog-link)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Connect
 
