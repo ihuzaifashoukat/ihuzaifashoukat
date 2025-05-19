@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning advanced web development and exploring the depths of machine learning.
 - 👯 I’m looking to collaborate on open-source projects that can make a positive impact.
 - 💬 Ask me about JavaScript, Python, and React.
-- 📫 How to reach me: [your email] or connect with me on [LinkedIn](your-linkedin-profile).
+- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/huzaifashoukat/).
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools
