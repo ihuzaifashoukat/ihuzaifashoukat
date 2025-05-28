@@ -16,17 +16,6 @@ Code maker · Web dev · AI fan
 - **DB**: MongoDB · MySQL  
 - **Tool**: Git · Docker · AWS · Heroku  
 
-## Work
-
-- **WPAudit**  
-  WP security suite with Nmap, WPScan, Nuclei, SQLMap  
-- **twitter-automation-ai**  
-  AI replies for tweets via GPT-4  
-- **seo-analyzer**  
-  On-page audit in CLI and Flask  
-- **wordpress-vulnerability-database**  
-  WP issue DB in SQLite, CSV, Excel  
-
 ## GitHub Stats
 
 ![Huzaifa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=radical)
