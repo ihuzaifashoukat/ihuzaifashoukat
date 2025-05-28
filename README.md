@@ -1,30 +1,28 @@
-# Hi there, I'm Huzaifa Shoukat! 👋
+# Hi, I'm Huzaifa.
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, machine learning, and open-source contributions.
+I write code. I build things for the web. I like clear ideas and simple tools.
 
-## 🚀 About Me
+## 🧠 What I do
 
-- 🌱 I’m currently learning advanced web development and exploring the depths of machine learning.
-- 👯 I’m looking to collaborate on open-source projects that can make a positive impact.
-- 💬 Ask me about JavaScript, Python, and React.
-- 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/huzaifashoukat/).
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+- Frontend & backend for web apps  
+- Small machine learning projects  
+- Clean, readable code  
+- Open-source when I can
 
-## 🛠️ Technologies & Tools
+## 🧰 Tools I use
 
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks & Libraries:** React, Node.js, Express, TensorFlow
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, Docker, AWS, Heroku
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Libraries:** React, Node.js, Express, TensorFlow  
+- **Databases:** MongoDB, MySQL  
+- **Other tools:** Git, Docker, AWS, Heroku
 
-## 📈 GitHub Stats
+## 📫 Reach me
 
-![Huzaifa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=radical)
-=
+[LinkedIn →](https://www.linkedin.com/in/huzaifashoukat)
 
+## 📊 GitHub Activity
 
-## 🤝 Let's Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=default)
 
-Feel free to reach out if you have any questions or if you want to collaborate on a project. I'm always open to learning new things and meeting new people!
+---
 
-Thanks for visiting my profile!
