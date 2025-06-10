@@ -1,4 +1,4 @@
-# Huzaifa Shoukat 
+# Huzaifa Shoukat
 
 Code maker · Web dev · AI fan
 
