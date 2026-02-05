@@ -1,25 +1,62 @@
-# Huzaifa Shoukat
+<div align="center">
 
-Code maker · Web dev · AI fan
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35b7ff&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Huzaifa;Full+Stack+Developer+%F0%9F%92%BB;AI+Enthusiast+%26+RAG+Expert+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
-## About
+  <p align="center">
+    <a href="https://github.com/ihuzaifashoukat">
+      <img src="https://komarev.com/ghpvc/?username=ihuzaifashoukat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+  </p>
 
-- Learning deep web dev and AI  
-- Building open source tools that help developers  
-- Ask me about JS, Python, React  
-- Chess and puzzles in spare time  
+  <p align="center">
+    <b>Passionate about bridging the gap between robust Full Stack Engineering and cutting-edge AI solutions.</b><br />
+    Specializing in building scalable web applications and intelligent agents using LLMs, RAG, and Vector Databases.
+  </p>
 
-## Skills
+  <p align="center">
+    <a href="https://www.linkedin.com/in/huzaifashoukat/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ihuzaifashoukat@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- **Lang**: JS · Python · HTML · CSS  
-- **Lib**: React · Node · Express · TensorFlow  
-- **DB**: MongoDB · MySQL  
-- **Tool**: Git · Docker · AWS · Heroku  
+</div>
 
-## GitHub Stats
+---
 
-![Huzaifa’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=radical)
+### 🛠️ Technical Arsenal
 
-## Connect
+<div align="center">
 
-- LinkedIn → https://www.linkedin.com/in/huzaifashoukat/
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **🤖 AI & ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br /> **Specialties:** RAG (Retrieval-Augmented Generation), Vector Search (FAISS, Pinecone), LLM Integration |
+| **💻 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![HMTL5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **🔌 Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) |
+| **🗄️ Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **🚀 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihuzaifashoukat&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Langs" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihuzaifashoukat&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</div>
