@@ -55,7 +55,7 @@
 
 #### 🔒 Closed Source
 
-- **[Lexiber.com](https://lexiber.com)** — _"Lexiber AI: A free Legal AI for the people of Pakistan under UN SDG Access to Justice."_
+- **[Lexiber AI](https://lexiber.com)** — _"Lexiber AI: A free Legal AI for the people of Pakistan under UN SDG Access to Justice."_
     -   Empowering citizens with accessible legal information and guidance through generative AI.
 
 ---
