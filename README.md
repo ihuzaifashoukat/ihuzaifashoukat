@@ -48,7 +48,6 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
-
 | **[twitter-automation-ai](https://github.com/ihuzaifashoukat/twitter-automation-ai)** | Advanced Python-based Twitter (X.com) automation framework using Selenium and LLMs (OpenAI, Gemini) for multi-account scraping, posting, engagement, and content analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[wpaudit](https://github.com/ihuzaifashoukat/wpaudit)** | Advanced WordPress security auditing suite & vulnerability scanner. Automates pentesting with Nmap, WPScan, Nuclei, SQLMap. Comprehensive reports. Ideal for ethical hackers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer)** | Generate clean, AI-ready `llms.txt` files for your website or docs. Supports crawling, sitemaps, static builds, and framework-aware adapters (Next.js, Vite, Nuxt, Astro). | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
