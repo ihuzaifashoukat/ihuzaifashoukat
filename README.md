@@ -10,7 +10,7 @@
 
   <p align="center">
     <b>Passionate about bridging the gap between robust Full Stack Engineering and cutting-edge AI solutions.</b><br />
-    Specializing in building scalable web applications and intelligent agents using LLMs, RAG, and Vector Databases.
+    Specializing in building scalable web applications, intelligent agents using LLMs/RAG, and data science/computer vision solutions.
   </p>
 
   <p align="center">
@@ -48,10 +48,14 @@
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
+
 | **[twitter-automation-ai](https://github.com/ihuzaifashoukat/twitter-automation-ai)** | Advanced Python-based Twitter (X.com) automation framework using Selenium and LLMs (OpenAI, Gemini) for multi-account scraping, posting, engagement, and content analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[wpaudit](https://github.com/ihuzaifashoukat/wpaudit)** | Advanced WordPress security auditing suite & vulnerability scanner. Automates pentesting with Nmap, WPScan, Nuclei, SQLMap. Comprehensive reports. Ideal for ethical hackers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | **[llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer)** | Generate clean, AI-ready `llms.txt` files for your website or docs. Supports crawling, sitemaps, static builds, and framework-aware adapters (Next.js, Vite, Nuxt, Astro). | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | **[seo-analyzer](https://github.com/ihuzaifashoukat/seo-analyzer)** | Powerful SEO Analyzer for comprehensive on-page, technical, and content audits. Features CLI & Flask API. Ideal for developers & SEOs. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[student-performance-analysis](https://github.com/ihuzaifashoukat/student-performance-analysis)** | Professional Data Science project analyzing student performance factors using XGBoost, SHAP implementation, and K-Means Clustering for student segmentation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[yolo-image-identifier](https://github.com/ihuzaifashoukat/yolo-image-identifier)** | Professional real-time object detection application utilizing YOLOv8, FastAPI, and React with high-contrast visualization for industrial and analytical use cases. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| **[ml-mastery-path](https://github.com/ihuzaifashoukat/ml-mastery-path)** | Advanced Machine Learning and LLM training implementations. A comprehensive reference for engineers and researchers covering deep learning, PyTorch, and generative AI. | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 #### 🔒 Closed Source
 
