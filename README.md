@@ -9,8 +9,8 @@
   </p>
 
   <p align="center">
-    <b>Passionate about bridging the gap between robust Full Stack Engineering and cutting-edge AI solutions.</b><br />
-    Specializing in building scalable web applications, intelligent agents using LLMs/RAG, and data science/computer vision solutions.
+    I build web applications and AI systems that actually work in production.<br />
+    My focus lately is RAG pipelines, LLM fine-tuning, and making AI useful for people who don't have access to expensive legal or technical help.
   </p>
 
   <p align="center">
@@ -26,44 +26,43 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+### What I work with
 
 <div align="center">
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
-| **🤖 AI & ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br /> **Specialties:** RAG (Retrieval-Augmented Generation), Vector Search (FAISS, Pinecone), LLM Integration |
-| **💻 Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) <br /> ![HMTL5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **🔌 Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) |
-| **🗄️ Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| **🚀 DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
+| **AI & ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br /> RAG, Vector Search (FAISS, Pinecone), LLM Integration |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) <br /> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square) |
+| **Database** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
-#### 📂 Open Source
+#### Open source
 
-| **Project** | **Description** | **Tech Stack** |
+| **Project** | **Description** | **Stack** |
 | :--- | :--- | :--- |
-| **[twitter-automation-ai](https://github.com/ihuzaifashoukat/twitter-automation-ai)** | Advanced Python-based Twitter (X.com) automation framework using Selenium and LLMs (OpenAI, Gemini) for multi-account scraping, posting, engagement, and content analysis. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[wpaudit](https://github.com/ihuzaifashoukat/wpaudit)** | Advanced WordPress security auditing suite & vulnerability scanner. Automates pentesting with Nmap, WPScan, Nuclei, SQLMap. Comprehensive reports. Ideal for ethical hackers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer)** | Generate clean, AI-ready `llms.txt` files for your website or docs. Supports crawling, sitemaps, static builds, and framework-aware adapters (Next.js, Vite, Nuxt, Astro). | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **[seo-analyzer](https://github.com/ihuzaifashoukat/seo-analyzer)** | Powerful SEO Analyzer for comprehensive on-page, technical, and content audits. Features CLI & Flask API. Ideal for developers & SEOs. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **[student-performance-analysis](https://github.com/ihuzaifashoukat/student-performance-analysis)** | Professional Data Science project analyzing student performance factors using XGBoost, SHAP implementation, and K-Means Clustering for student segmentation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **[yolo-image-identifier](https://github.com/ihuzaifashoukat/yolo-image-identifier)** | Professional real-time object detection application utilizing YOLOv8, FastAPI, and React with high-contrast visualization for industrial and analytical use cases. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
-| **[ml-mastery-path](https://github.com/ihuzaifashoukat/ml-mastery-path)** | Advanced Machine Learning and LLM training implementations. A comprehensive reference for engineers and researchers covering deep learning, PyTorch, and generative AI. | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[twitter-automation-ai](https://github.com/ihuzaifashoukat/twitter-automation-ai)** | Python framework for Twitter/X automation — multi-account scraping, posting, engagement, and content analysis using Selenium and LLMs (OpenAI, Gemini). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[wpaudit](https://github.com/ihuzaifashoukat/wpaudit)** | WordPress security auditing suite. Automates pentesting with Nmap, WPScan, Nuclei, and SQLMap. Outputs full reports. Built for ethical hackers. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer)** | Generates `llms.txt` files for websites and docs. Supports crawling, sitemaps, static builds, and adapters for Next.js, Vite, Nuxt, and Astro. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[seo-analyzer](https://github.com/ihuzaifashoukat/seo-analyzer)** | On-page, technical, and content SEO audits via CLI or Flask API. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[student-performance-analysis](https://github.com/ihuzaifashoukat/student-performance-analysis)** | Data science project analyzing student performance using XGBoost, SHAP, and K-Means clustering for segmentation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **[yolo-image-identifier](https://github.com/ihuzaifashoukat/yolo-image-identifier)** | Real-time object detection using YOLOv8, FastAPI, and React. High-contrast visualization, built for industrial use. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white) |
+| **[ml-mastery-path](https://github.com/ihuzaifashoukat/ml-mastery-path)** | Reference implementations covering deep learning, PyTorch, and generative AI. Built as I learned — still adding to it. | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
-#### 🔒 Closed Source
+#### Closed source
 
-- **[Lexiber AI](https://lexiber.com)** — _"Lexiber AI: A free Legal AI for the people of Pakistan under UN SDG Access to Justice."_
-    -   Empowering citizens with accessible legal information and guidance through generative AI.
+- **[Lexiber AI](https://lexiber.com)** — Free legal AI for Pakistan. Lets citizens ask legal questions in English or Urdu and get actual answers, not a referral to a lawyer they can't afford. Built under the UN SDG Access to Justice framework.
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
@@ -79,5 +78,5 @@
 ---
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </div>
