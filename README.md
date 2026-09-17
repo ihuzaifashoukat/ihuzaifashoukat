@@ -1,64 +1,92 @@
-## Huzaifa Shoukat
+# Huzaifa Shoukat
 
-I build AI agents and the web systems businesses run on. Islamabad, Pakistan. Working with clients in the UK, Europe, and Pakistan.
+**Open-source engineer building AI agents, MCP servers, browser automation, and developer tools.**
 
-Most of what I do is production work: RAG pipelines, MCP servers, ecommerce, and the unglamorous parts nobody demos. The open source below is the part I can show you.
+I build the parts that still matter after the demo ends: tool boundaries, state, approvals, retrieval, packaging, docs, and the automation around them.
+
+Most of my public work is in Python and TypeScript. I care about useful abstractions, safe automation, and software people can actually install and run.
 
 [Website](https://huzaifashoukat.me) · [LinkedIn](https://www.linkedin.com/in/huzaifashoukat/) · [X](https://x.com/ihuzaifashoukat) · [Email](mailto:ihuzaifashoukat@gmail.com)
 
-**Open to contract work and full-time roles.** [Book a 30 minute call](https://calendly.com/ihuzaifashoukat/30min) or email me.
-
 ---
 
-### x-use
+## Featured project: x-use
 
-Browser-native AI agents for X. Multi-account, MCP-ready, no X API key.
+[![GitHub stars](https://img.shields.io/github/stars/ihuzaifashoukat/x-use?style=flat-square&logo=github&label=stars)](https://github.com/ihuzaifashoukat/x-use/stargazers)
+[![PyPI](https://img.shields.io/pypi/v/x-use-mcp?style=flat-square&logo=pypi&label=PyPI)](https://pypi.org/project/x-use-mcp/)
+[![License](https://img.shields.io/github/license/ihuzaifashoukat/x-use?style=flat-square)](https://github.com/ihuzaifashoukat/x-use/blob/main/LICENSE)
 
-152 stars, 30 forks, ~180 unique clones a month. On PyPI as `x-use-mcp`. Works with Claude Desktop, Claude Code, and Cursor.
+**Browser-native AI agents for X. Multi-account, MCP-ready, no X API key required.**
 
-The X API prices write access out of reach for anyone running a couple of accounts. x-use drives a real browser instead, so if a logged-in human can do it, an MCP client can ask for it. Write actions go through draft approval by default, which means an agent can prepare a week of posts without anything reaching X until you say yes.
+x-use runs against a real Chrome session and exposes X workflows through MCP, so agent clients can search, draft, reply, schedule, and manage accounts without depending on the paid X API.
+
+- 33 MCP tools across reading, draft-gated writing, scheduling, account management, and proxy management
+- Multi-account support with per-account configuration, personas, and proxies
+- Human approval by default for write actions
+- Works with Claude Desktop, Claude Code, Cursor, Windsurf, and other stdio MCP clients
+- Published on PyPI as `x-use-mcp`
+- Listed in the official MCP Registry as `io.github.ihuzaifashoukat/x-use`
 
 ```bash
 pip install x-use-mcp
 ```
 
-[Repo](https://github.com/ihuzaifashoukat/x-use) · [Releases](https://github.com/ihuzaifashoukat/x-use/releases)
+[Repository](https://github.com/ihuzaifashoukat/x-use) · [Releases](https://github.com/ihuzaifashoukat/x-use/releases) · [MCP guide](https://github.com/ihuzaifashoukat/x-use/blob/main/docs/MCP_GUIDE.md) · [Architecture](https://github.com/ihuzaifashoukat/x-use/blob/main/ARCHITECTURE.md)
 
 ---
 
-### Client work
+## Open source
 
-Sites and systems I built and shipped. Full case studies at [huzaifashoukat.me/work](https://huzaifashoukat.me/work).
-
-| Client | What it is |
+| Project | What it does |
 | :--- | :--- |
-| [UnifiedOne](https://huzaifashoukat.me/work/unifiedone) | Cybersecurity platform site. Threat intel product split into three routes for MSPs, SMBs, and enterprise buyers. Next.js on Vercel, headless WordPress, multilingual. |
-| [JK Foods UK](https://huzaifashoukat.me/work/jk-foods) | B2B wholesale platform. Large Pan-Asian catalogue with search, categories, and trade account flow. |
-| [Cosmetik.pk](https://huzaifashoukat.me/work/cosmetik-pk) | Custom Shopify storefront for a Pakistani cosmetics retailer. Reusable templates, localized shopping info. |
-| [Baahu](https://huzaifashoukat.me/work/baahu) | Restaurant ordering. Menu to delivery or pickup without leaving the site. |
-| [Lexiber AI](https://huzaifashoukat.me/work/lexiber) | My own product. Legal questions in English or Urdu, answered against cited Pakistani sources. 50k+ questions since public beta. |
+| [SpliceDeck](https://github.com/ihuzaifashoukat/splicedeck) | Local-first video editor built for AI agents. MCP + CLI control for cuts, templates, captions, vertical clips, delivery, and human-gated editing memory. |
+| [wpaudit](https://github.com/ihuzaifashoukat/wpaudit) | Modular WordPress security auditing. Coordinates Nmap, WPScan, Nuclei, SQLMap, reporting, and scan profiles. |
+| [llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer) | Generates `llms.txt` and AI-ready site context from live sites, sitemaps, static builds, and Markdown/MDX docs. |
+| [free-ai-router](https://github.com/ihuzaifashoukat/free-ai-router) | Routes across 150+ free AI models from 20+ providers with automatic fallback when providers hit limits. |
+| [seo-analyzer](https://github.com/ihuzaifashoukat/seo-analyzer) | Python toolkit for on-page, technical, and content SEO audits with CLI, crawling, exports, and a Flask API. |
+| [wordpress-vulnerability-database](https://github.com/ihuzaifashoukat/wordpress-vulnerability-database) | Open WordPress vulnerability data covering 27,000+ plugin, theme, and core issues in SQLite, CSV, and Excel. |
 
 ---
 
-### Other open source
+## What I work on
 
-| Project | What it does | Stars |
-| :--- | :--- | :--- |
-| [wpaudit](https://github.com/ihuzaifashoukat/wpaudit) | WordPress security auditing. Chains Nmap, WPScan, Nuclei, and SQLMap into one report. | 39 |
-| [seo-analyzer](https://github.com/ihuzaifashoukat/seo-analyzer) | On-page, technical, and content SEO audits. CLI and Flask API. | 17 |
-| [llmoptimizer](https://github.com/ihuzaifashoukat/llmoptimizer) | Generates `llms.txt` for sites and docs. Adapters for Next.js, Vite, Nuxt, Astro, Remix. On npm. | 16 |
-| [free-ai-router](https://github.com/ihuzaifashoukat/free-ai-router) | 150+ free models across 20+ providers, with automatic fallback when you hit rate limits. | 13 |
-| [wordpress-vulnerability-database](https://github.com/ihuzaifashoukat/wordpress-vulnerability-database) | Open WordPress vulnerability data, 27,000+ issues, updated daily. SQLite, CSV, Excel. | 9 |
-
----
-
-### Stack
-
-Python, TypeScript, Next.js, React, Node, FastAPI. Postgres and Supabase. LangChain, FAISS, Pinecone for retrieval. Docker and AWS. Shopify and WordPress when the client is already there.
+- **AI agents & MCP**: tool design, agent interfaces, human-in-the-loop workflows, and multi-agent infrastructure
+- **Browser automation**: reliable browser-native workflows for systems where APIs are limited, expensive, or incomplete
+- **Retrieval systems**: RAG pipelines, vector search, grounding, and source-aware applications
+- **Developer tooling**: CLIs, packages, automation, docs, testing, and distribution
+- **Agent-native media**: MCP-driven video workflows, FFmpeg pipelines, transcription, templates, and human-gated automation
+- **Security automation**: practical scanners, vulnerability data, and repeatable auditing workflows
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihuzaifashoukat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihuzaifashoukat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</div>
+## Tech
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,fastapi,flask,postgres,mysql,mongodb,supabase,docker,aws,git,github,vercel&perline=17" alt="Huzaifa Shoukat's tech stack" />
+  </a>
+</p>
+
+**AI / agents:** MCP · RAG · LangChain · Agent tooling  
+**Data / retrieval:** PostgreSQL · MySQL · MongoDB · Supabase · pgvector · FAISS · Pinecone · Vector search  
+**Backend:** FastAPI · Flask · Node.js  
+**Shipping:** Docker · GitHub Actions · PyPI · npm · AWS · Vercel
+
+### Open-source activity
+
+[![x-use stars](https://img.shields.io/github/stars/ihuzaifashoukat/x-use?style=flat-square&logo=github&label=x-use%20stars)](https://github.com/ihuzaifashoukat/x-use/stargazers)
+[![x-use forks](https://img.shields.io/github/forks/ihuzaifashoukat/x-use?style=flat-square&logo=github&label=forks)](https://github.com/ihuzaifashoukat/x-use/network/members)
+[![GitHub followers](https://img.shields.io/github/followers/ihuzaifashoukat?style=flat-square&logo=github&label=followers)](https://github.com/ihuzaifashoukat?tab=followers)
+[![PyPI](https://img.shields.io/pypi/v/x-use-mcp?style=flat-square&logo=pypi&label=x-use-mcp)](https://pypi.org/project/x-use-mcp/)
+
+---
+
+## Build with me
+
+Issues, bug reports, and pull requests are welcome across my repositories.
+
+If you are working on MCP tooling, browser agents, developer infrastructure, retrieval systems, or open-source security tools, I am always interested in comparing notes.
+
+**Open to open-source collaborations, contract engineering, and full-time roles.**
+
+[Book a 30 minute call](https://calendly.com/ihuzaifashoukat/30min) · [Email me](mailto:ihuzaifashoukat@gmail.com)
