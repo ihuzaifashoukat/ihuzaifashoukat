@@ -14,24 +14,32 @@ Most of my public work is in Python and TypeScript. I care about useful abstract
 
 [![GitHub stars](https://img.shields.io/github/stars/ihuzaifashoukat/x-use?style=flat-square&logo=github&label=stars)](https://github.com/ihuzaifashoukat/x-use/stargazers)
 [![PyPI](https://img.shields.io/pypi/v/x-use-mcp?style=flat-square&logo=pypi&label=PyPI)](https://pypi.org/project/x-use-mcp/)
+[![CI](https://img.shields.io/github/actions/workflow/status/ihuzaifashoukat/x-use/ci.yml?branch=main&style=flat-square&label=CI)](https://github.com/ihuzaifashoukat/x-use/actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/ihuzaifashoukat/x-use?style=flat-square)](https://github.com/ihuzaifashoukat/x-use/blob/main/LICENSE)
 
-**Browser-native AI agents for X. Multi-account, MCP-ready, no X API key required.**
+**An MCP server for X research, outreach, and inbox management. No X API key required.**
 
-x-use runs against a real Chrome session and exposes X workflows through MCP, so agent clients can search, draft, reply, schedule, and manage accounts without depending on the paid X API.
+x-use connects AI agents to X through a Patchright Chromium browser using your own account session. Agents can research profiles, read conversations, prepare personalized messages, and manage posts and replies through structured tools.
 
-- 33 MCP tools across reading, draft-gated writing, scheduling, account management, and proxy management
-- Multi-account support with per-account configuration, personas, and proxies
-- Human approval by default for write actions
-- Works with Claude Desktop, Claude Code, Cursor, Windsurf, and other stdio MCP clients
-- Published on PyPI as `x-use-mcp`
-- Listed in the official MCP Registry as `io.github.ihuzaifashoukat/x-use`
+**[Version 3.0.0](https://github.com/ihuzaifashoukat/x-use/releases/tag/v3.0.0) is live** on [PyPI](https://pypi.org/project/x-use-mcp/3.0.0/) and the official MCP Registry as `io.github.ihuzaifashoukat/x-use`.
+
+- **70 MCP tools, seven prompts, and seven agent skills** for setup, research, engagement, inbox management, content, daily review, and threads
+- **Structured inbox and notifications:** conversations, unread/read filters, message request folders, visible message context, and notification actors and links
+- **Reviewed outreach and threads:** individual draft approval for DMs, follows, and thread starts, with durable progress for multi-post workflows
+- **Multiple accounts:** isolated browser sessions, per-account personas and proxies, action budgets, and recovery records for uncertain writes
+- **Agent integrations:** Claude Code plugin, skills for Claude Code and Codex, and stdio MCP support for Claude Desktop, Cursor, Windsurf, and other clients
+- **Cross-platform CI:** Windows, macOS, and Linux on Python 3.10–3.14, including installed-package checks and synthetic browser tests with Patchright and Playwright
+
+Install the package and its browser:
 
 ```bash
-pip install x-use-mcp
+python -m pip install --upgrade x-use-mcp
+python -m patchright install chromium
 ```
 
-[Repository](https://github.com/ihuzaifashoukat/x-use) · [Releases](https://github.com/ihuzaifashoukat/x-use/releases) · [MCP guide](https://github.com/ihuzaifashoukat/x-use/blob/main/docs/MCP_GUIDE.md) · [Architecture](https://github.com/ihuzaifashoukat/x-use/blob/main/ARCHITECTURE.md)
+Requires Python 3.10+. Follow the [setup guide](https://github.com/ihuzaifashoukat/x-use#install) for uv-based setup, account configuration, and MCP client registration.
+
+[Repository](https://github.com/ihuzaifashoukat/x-use) · [MCP guide](https://github.com/ihuzaifashoukat/x-use/blob/main/docs/MCP_GUIDE.md) · [Agent skills](https://github.com/ihuzaifashoukat/x-use#agent-skills) · [Claude Code plugin](https://github.com/ihuzaifashoukat/x-use/blob/main/plugins/x-use/README.md) · [Changelog](https://github.com/ihuzaifashoukat/x-use/blob/main/CHANGELOG.md)
 
 ---
 
